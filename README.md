@@ -1,4 +1,5 @@
 NAME: POOJA.S
+
 REG NO: 212223040146
 
 # Fitting Poisson  distribution
